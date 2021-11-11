@@ -3,7 +3,7 @@ I am an architect and designer with experience in graphic design, UX-UI and proj
 Contact-me on:
 [linkedIn](https://www.linkedin.com/in/magdiel-silva-3680881a6)
 
-![dev-magdielSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-magdielSilva&show_icons=true&theme=radical)
+![dev-magdielSilva GitHub stats](https://github-readme-stats.vercel.app/api?username=Magdiel Silva&show_icons=true&theme=radical)
 
 <!--
 **dev-magdielSilva/dev-magdielSilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
