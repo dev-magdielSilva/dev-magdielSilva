@@ -3,7 +3,7 @@ I am an architect and designer with experience in graphic design, UX-UI and proj
 Contact-me on:
 [linkedIn](https://www.linkedin.com/in/magdiel-silva-3680881a6)
 
-<img src="https://github-readme-stats.vercel.app/api?username=magdielSilva&theme=radical&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-magdielSilva&theme=radical&show_icons=true">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-magdielSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
