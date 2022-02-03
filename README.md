@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an architect and designer with experience in graphic design, UX-UI and project development. I am a Front-End programmer, with skills in ReactJS and agile methodologies.
+Developer at Telefonica Brasil | HTML | CSS | Javascript | Java | React |TypeScript | NodeJs | Express | Jest | AWS | Azure | IBMCloud | Firebase | Heroku | MySQL | NoSQL.
 Contact-me on:
 [linkedIn](https://www.linkedin.com/in/magdiel-silva-3680881a6)
 
