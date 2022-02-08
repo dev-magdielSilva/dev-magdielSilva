@@ -5,8 +5,6 @@ Contact-me on:
 
 <img src="https://github-readme-stats.vercel.app/api?username=dev-magdielSilva&theme=radical&show_icons=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-magdielSilva&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 <!--
