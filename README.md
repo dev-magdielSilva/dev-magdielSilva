@@ -4,7 +4,6 @@ Contact-me on:
 [linkedIn](https://www.linkedin.com/in/magdiel-silva-3680881a6)
 
 
-<img align='right' src= 'https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif'>
 
 ### 🛠 &nbsp;Tecnologias | Tech Stack
 
