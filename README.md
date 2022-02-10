@@ -1,9 +1,9 @@
 ### Hi there 👋
 Developer at Telefonica Brasil | HTML | CSS | Javascript | Java | React |TypeScript | NodeJs | Express | Jest | AWS | Azure | IBMCloud | Firebase | Heroku | MySQL | NoSQL.
 Contact-me on:
-[linkedIn](https://www.linkedin.com/in/magdiel-silva-3680881a6)<br/>
+[linkedIn](https://www.linkedin.com/in/magdiel-silva-3680881a6) or<br/>
 <a href= mailto:dev.magdielsilva@gmail.com> 
-dev-magdielSilva's email</a>
+dev-magdielSilva's E-mail</a>
 
 
 
